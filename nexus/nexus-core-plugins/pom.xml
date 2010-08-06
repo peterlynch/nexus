@@ -31,6 +31,7 @@
     <module>nexus-rrb-plugin</module>
     <module>nexus-core-documentation-plugin</module>
     <module>nexus-groovy-console-plugin</module>
+    <module>nexus-capabilities-plugin</module>
   </modules>
 
 </project>
